@@ -1,0 +1,10 @@
+td{
+  height: 130px;
+  width: 130px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+.jumbotron{
+  margin-top: 10px;
+}
